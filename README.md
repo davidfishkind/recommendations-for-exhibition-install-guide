@@ -15,7 +15,9 @@ Below are some example of QR code orientation to create a streamlined interactio
 - Floor sticker, linking to work URL
 - QR code linking to index of all captioned works at beginning of exhibition
 
-
+![QR code below wall text](https://i.imgur.com/tL7sPull.jpg).
 
 We also recommend including some basic copy accompanying your AccessKit QR code, such as:
-- *"A frictionless and immersive synchronized video work viewing experience across a range of accessibility and language needs."*
+- *A frictionless and immersive synchronized video work viewing experience across a range of accessibility and language needs.*
+
+## Information for Docents
