@@ -13,7 +13,7 @@ Each artwork set up with AccessKit will come with its own unique QR code so that
 - **Floor sticker**, linking to work URL
 - **QR code linking to index of all captioned works** at beginning of exhibition
 
-![QR code below wall text](https://i.imgur.com/tL7sPull.jpg).
+![QR code below wall text](https://i.imgur.com/7ail58f.png).
 
 We also recommend including some basic copy accompanying your AccessKit QR code, such as:
 - *A frictionless and immersive synchronized video work viewing experience across a range of accessibility and language needs.*
@@ -60,3 +60,13 @@ We are pleased to provide conversion services for text files associated with vid
 [MORE?]
 
 ## How to Integrate with Existing Mobile Guides
+
+AccessKit makes it easy to integrate our captions, transcripts, and other features with your institutional website and mobile guide apps.
+
+The CONFIGURATION page, accessed by clicking the **Gear** icon, includes a Home Back Link URL to your website.
+
+We also offer a custom stylesheet, along with custom icons, making it easy for your museum, gallery, or other institution to match your brand identity between your mobile guide / website and AccessKit's caption user interface.
+
+See, for instance, The Whitney's integration of our captioning and custimization services with a link at the top of the page back to the museum's official mobile guide:
+
+![Whitney captioner](https://i.imgur.com/7kfDTyRl.png).
