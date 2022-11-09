@@ -1,6 +1,6 @@
-# Recommendations for Exhibition Install
+# Recommendations for Exhibition Installation
 
-This guide will walk you through some of AccessKit's tried and true features, and provide direction on how to get the most out of the interactive museum and gallery experience, for guests and staff alike.
+This guide will walk you through some of AccessKit's tried and true features, and provide direction on how to get the most out of your interactive museum and gallery experience for guests and staff alike.
 
 ## Where to Put QR Codes
 
@@ -22,6 +22,8 @@ We also recommend including some basic copy accompanying your AccessKit QR code,
 
 AccessKit provides a channel to complete transcripts of video and multimedia artworks, allowing curators, critics, and guests to independently investigate the associated texts.
 
+[NEED MORE INFO FOR THIS...]
+
 ## Accessible Tours
 
 AccessKit prioritizes an equity-driven experience for guests of all backgrounds and abilities.
@@ -32,4 +34,29 @@ The following features were designed to enhance and facilitate interactions betw
 - **Synchronized audio descriptions** allows visually-impaired guests to experience installations in real time.
 - **Toggle on/off on-screen captions** is a forthcoming feature designed to improve the ease and accessibility of captions associated with video works.
 
+## Installation Timeline
 
+AccessKit offers a tier of services related to setting up mediaplayers to support exhibition installs, based on subscription plan.
+- This varies from up to 2 players for our **Community Edition** members
+- Up to 12 for our **Institutional** services plan
+- And unlimited player support for **Institutional Plus** subscribers
+
+We recommend finalizing your AccessKit needs and orders at least 1 month in advance of your exhibition installation.
+
+We offer off-site set up for players delivered at least 1 week before they are to be installed in the exhibition.
+
+We ensure timely remote assistance in syncing the correct firmware and player bundles on all mediaplayers to enable media playback and captioning for video works.
+
+[How to swap out media / captions][NEED MORE INFO FOR THIS...]
+
+## Where to Get Captions Made
+
+Captions must be stored and uploaded as SRT files along with their associated work.
+
+An SRT is a plain-text file that contains critical information regarding subtitles.
+
+We are pleased to provide conversion services for text files associated with video and other multimedia works to SRT.
+
+[MORE?]
+
+## How to Integrate with Existing Mobile Guides
