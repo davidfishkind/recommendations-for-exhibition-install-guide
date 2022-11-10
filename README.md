@@ -1,12 +1,12 @@
 # Recommendations for Exhibition Installation
 
-This guide will walk you through some of AccessKit's tried and true features, and provide direction on how to get the most out of your interactive museum and gallery experience for guests and staff alike.
+This guide will walk you through some of AccessKit's tried and true features, provide recommendations and tips on effective exhibition installation, and help you get the most out of your interactive museum and gallery experience, for guests and personnel alike.
 
 ## Where to Put QR Codes
 
-QR codes are an integral part of any modern art exhibition. They supply a digital pathway to deepen viewers' relationship with artworks, artists, and exhibitions.
+QR codes are an integral part of any modern exhibition space. They supply a digital pathway linking to releveant information, and working to deepen relationships between viewers, artworks, artists, and institutions.
 
-Each artwork set up with AccessKit will come with its own unique QR code so that visitors can easily find the accessible content. Below are some example of QR code placement and orientation to create a streamlined interaction between the art on display and its detailed web presence:
+Each work set up with AccessKit comes with its own unique QR code so that visitors can easily find the accessible content. Below are some example of QR code placement and orientation to create a streamlined interaction between the art on display and its detailed web presence:
 
 - **Included below wall text**, linking to work URL
 - **Separate call-out sticker next to work**, linking to work URL
