@@ -16,7 +16,7 @@ Each work set up with AccessKit comes with its own unique QR code so that visito
 <img width="391" alt="Screen Shot 2022-11-09 at 3 25 10 PM" src="https://user-images.githubusercontent.com/117477750/201123459-398b2ca7-bfb7-49fe-ad78-f2645f2702e7.png">.
 
 We also recommend including some basic copy accompanying your AccessKit QR code, such as:
-- *A frictionless and immersive synchronized video work viewing experience across a range of accessibility and language needs.*
+- *A frictionless and immersive synchronized viewing experience across a range of accessibility and language needs.*
 
 ## Information for Docents
 
