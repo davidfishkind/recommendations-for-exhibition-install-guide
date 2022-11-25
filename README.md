@@ -4,7 +4,7 @@ This guide will walk you through some of AccessKit's tried and true features, pr
 
 ## Where to Put QR Codes
 
-QR codes are an integral part of any modern exhibition space. They supply a digital pathway linking to releveant information, and working to deepen relationships between viewers, artworks, artists, and institutions.
+QR codes are an integral part of any modern exhibition space. They supply a digital pathway linking to relevant information, and working to deepen relationships between viewers, artworks, artists, and institutions.
 
 Each work set up with AccessKit comes with its own unique QR code so that visitors can easily find the accessible content. Below are some example of QR code placement and orientation to create a streamlined interaction between the art on display and its detailed web presence:
 
